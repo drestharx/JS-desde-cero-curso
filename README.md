@@ -1,2 +1,2 @@
 # JS-desde-cero-curso
-Curso de JS con Platzi
+Curso basico y practico de JS desde cero con Platzi
